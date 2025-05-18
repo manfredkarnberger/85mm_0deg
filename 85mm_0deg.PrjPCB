@@ -83,6 +83,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document3]
+DocumentPath=Output\85mm_0deg\Status Report.Txt
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Output\85mm_0deg\85mm_0deg.DRR
 DItemRevisionGUID=
@@ -121,10 +138,6 @@ DItemRevisionGUID=
 
 [GeneratedDocument10]
 DocumentPath=Output\85mm_0deg\85mm_0deg.REP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Output\Design Rule Check - 85mm_0deg.html
 DItemRevisionGUID=
 
 [Parameter1]
