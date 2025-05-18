@@ -2,12 +2,23 @@
 FileName = 85mm_0deg.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Solder
-      File : 85mm_0deg.GTS
+Generating : Mechanical 1
+      File : 85mm_0deg.GM1
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Mechanical 1
 
-    Adding Layer      : Top Layer
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 85mm_0deg.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
@@ -16,8 +27,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : 85mm_0deg.GTL
+Generating : Top Solder
+      File : 85mm_0deg.GTS
+
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -40,28 +53,15 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : 85mm_0deg.GBS
+Generating : Top Layer
+      File : 85mm_0deg.GTL
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : 85mm_0deg.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D10
 *************************************************************
 
 *************************************************************
