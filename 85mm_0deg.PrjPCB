@@ -84,83 +84,43 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Output\85mm_45deg\85mm_0deg.DRR
+DocumentPath=Output\85mm_0deg\85mm_0deg.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Output\85mm_45deg\85mm_0deg.EXTREP
+DocumentPath=Output\85mm_0deg\85mm_0deg.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Output\85mm_45deg\85mm_0deg.GBL
+DocumentPath=Output\85mm_0deg\85mm_0deg.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Output\85mm_45deg\85mm_0deg.GBS
+DocumentPath=Output\85mm_0deg\85mm_0deg.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Output\85mm_45deg\85mm_0deg.GM
+DocumentPath=Output\85mm_0deg\85mm_0deg.GM
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Output\85mm_45deg\85mm_0deg.GM1
+DocumentPath=Output\85mm_0deg\85mm_0deg.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Output\85mm_45deg\85mm_0deg.GTL
+DocumentPath=Output\85mm_0deg\85mm_0deg.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Output\85mm_45deg\85mm_0deg.GTS
+DocumentPath=Output\85mm_0deg\85mm_0deg.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Output\85mm_45deg\85mm_0deg.LDP
+DocumentPath=Output\85mm_0deg\85mm_0deg.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Output\85mm_45deg\85mm_0deg.REP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Output\85mm_45deg\85mm_45deg.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Output\85mm_45deg\85mm_45deg.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Output\85mm_45deg\85mm_45deg.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Output\85mm_45deg\85mm_45deg.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Output\85mm_45deg\85mm_45deg.GM
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Output\85mm_45deg\85mm_45deg.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Output\85mm_45deg\85mm_45deg.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Output\85mm_45deg\85mm_45deg.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Output\85mm_45deg\85mm_45deg.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Output\85mm_45deg\85mm_45deg.REP
+DocumentPath=Output\85mm_0deg\85mm_0deg.REP
 DItemRevisionGUID=
 
 [Parameter1]

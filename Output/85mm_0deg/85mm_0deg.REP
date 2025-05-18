@@ -1,9 +1,23 @@
 *************************************************************
-FileName = 85mm_45deg.GBR
+FileName = 85mm_0deg.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Solder
+      File : 85mm_0deg.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
-      File : 85mm_45deg.GTL
+      File : 85mm_0deg.GTL
 
     Adding Layer      : Top Layer
 
@@ -15,7 +29,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Bottom Layer
-      File : 85mm_45deg.GBL
+      File : 85mm_0deg.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -26,35 +40,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : 85mm_45deg.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : 85mm_45deg.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
-      File : 85mm_45deg.GBS
+      File : 85mm_0deg.GBS
 
     Adding Layer      : Bottom Solder
 
@@ -67,11 +54,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Profile
-      File : 85mm_45deg.GM
+Generating : Mechanical 1
+      File : 85mm_0deg.GM1
+
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D12
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : 85mm_0deg.GM
+
+
+Used DCodes :
+    D11
 *************************************************************
 
